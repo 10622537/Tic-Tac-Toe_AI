@@ -1,6 +1,8 @@
 # Tic-Tac-Toe_AI
-Uses Minimax Algorithm
+Uses Minimax Algorithm to make unbeatable AI opponent
 
 ### Goal
-Implement an AI agent that plays the classic game of Tic-Tac-Toe against a human player. You can use algorithms like Minimax with or without Alpha-Beta Pruning to make the AI player unbeatable. This project will help you understand game theory and basic search algorithms.
+Implementing an AI agent that plays the classic game of Tic-Tac-Toe against a human player. Algorithms like Minimax is used to make the AI player unbeatable. This project will help me understand game theory and basic search algorithms.
 
+
+[comment]: <> Alpha-Beta Pruning
